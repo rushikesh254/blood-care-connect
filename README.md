@@ -1,14 +1,37 @@
-# Blood-Bank-Mern-Stack-Project
-complete mern stack blood bank project source code please check commits
+# 🩸 Blood Care Connect
 
-## project playlist 🎞
-https://youtube.com/playlist?list=PLuHGmgpyHfRzs3VmqXkguFuNknQFbT0db
+A modern, full-stack Blood Bank Management System built using the **MERN** stack (MongoDB, Express.js, React, Node.js). It enables users to register as donors, request blood, and allows admins to manage inventory efficiently in real-time.
 
-# Thank you for watching TechinfoYT youtube channel
-😎 Please Like Share and Subscribe ! 🙏
+---
 
-# Having Any Isuse Or Query DM On Instagram 🤷‍♀️
-https://www.instagram.com/technical_update/
+## 🚀 Features
 
+- 👤 **User Authentication** (Login & Signup)
+- 🩸 **Request & Donate Blood**
+- 📊 **Admin Dashboard** with analytics
+- 🧾 **Blood Inventory Management**
+- 🔍 **Search by Blood Group**
+- 🛡️ **Role-based Access Control** (Admin/User)
+- 🌐 **Fully Responsive Frontend UI (React.js)**
 
+---
+
+## 🧰 Tech Stack
+
+### Frontend:
+- ⚛️ React.js
+- 📦 Axios
+- 🎨 Tailwind CSS / Bootstrap (if used)
+- 🔐 JWT (stored securely)
+
+### Backend:
+- 🟢 Node.js
+- 🚂 Express.js
+- 🗃 MongoDB (via Mongoose)
+- 🔐 JSON Web Tokens (JWT)
+- 🛡️ Bcrypt for password hashing
+
+---
+
+## 📁 Project Structure
 
